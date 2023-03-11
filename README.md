@@ -1,6 +1,11 @@
 # fiction-ChatGPT
 
 ## Get Started
+
+OPENAI_API_KEY
+
+https://platform.openai.com/account/api-keys
+
 실행
 ```
 npm install
